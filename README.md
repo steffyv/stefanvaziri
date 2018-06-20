@@ -1,1 +1,3 @@
-# stefanvaziri
+# Personal projects and workshop
+
+
