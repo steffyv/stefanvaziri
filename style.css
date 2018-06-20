@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.list-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5em;
+
+}
